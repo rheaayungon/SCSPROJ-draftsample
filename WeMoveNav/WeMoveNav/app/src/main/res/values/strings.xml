@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeMove</string>
+    <string-array name="selectTime">
+        <item>Choose a time..</item>
+        <item>Whole Day</item>
+        <item>Early AM</item>
+        <item>AM</item>
+        <item>Mid Day</item>
+        <item>PM</item>
+        <item>Evening</item>
+    </string-array>
+
+    <string-array name="selectLocation">
+        <item>Choose current location..</item>
+    </string-array>
+
+    <string-array name="selectDestination">
+        <item>Choose destination..</item>
+    </string-array>
+</resources>

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1087416615455",
+    "firebase_url": "https://mobileapplication-ed236.firebaseio.com",
+    "project_id": "mobileapplication-ed236",
+    "storage_bucket": "mobileapplication-ed236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087416615455:android:0520a2f89721ecca",
+        "android_client_info": {
+          "package_name": "com.example.kingkylie.mobileapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087416615455-c2tuk4tl338lkvp27mrg6cb8rd2gdgr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kingkylie.mobileapplication",
+            "certificate_hash": "081b5cf44d836ae1cca556eaa65db48ba8b9a272"
+          }
+        },
+        {
+          "client_id": "1087416615455-79qk6v253hdt6ut4mv7o7jnm7j0mak6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRwmWqRoZy1eI6-cD_iU0fmJj_-5sVhS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087416615455-79qk6v253hdt6ut4mv7o7jnm7j0mak6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087416615455:android:3b36e592fab05d92",
+        "android_client_info": {
+          "package_name": "com.wemove.scsproj.wemovenav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087416615455-h4e75728o7o0hop6e4cmib15vkk8f702.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemove.scsproj.wemovenav",
+            "certificate_hash": "e661447dc195a536d2d8ed1bd7a93ba8759173d0"
+          }
+        },
+        {
+          "client_id": "1087416615455-79qk6v253hdt6ut4mv7o7jnm7j0mak6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRwmWqRoZy1eI6-cD_iU0fmJj_-5sVhS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087416615455-79qk6v253hdt6ut4mv7o7jnm7j0mak6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
